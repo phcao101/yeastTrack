@@ -1,0 +1,24 @@
+GitHub Instructions:
+
+git clone <repository>
+  pulls any repository in using its URL
+
+git status
+  shows what's different between our local repository and GitHub
+
+git add <file>
+  <file> becomes a change to be committed (adding said file)
+
+git commit -m "added file"
+  locks the change into our local repository. "-m" means I'm giving it a "message" which should be in quotes.
+  After committing, the change will be made on YOUR machine. It's locked into your repository but it's not synced up to
+  the repository on GitHub.com yet.
+
+git push
+  will take any commit on our machine and push it up to GitHub.com
+
+git pull
+  will pull down changes made from another user from GitHub.com
+
+**keep in mind that these commands will only work if you are in the directory that is the GitHub repository
+(the file you cloned at the start)""
