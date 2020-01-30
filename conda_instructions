@@ -1,0 +1,7 @@
+Instructions for using anaconda environments
+
+  "conda create --name snowflakes" will create an environment named snowflakes.
+
+  To ACTIVATE that environment, run "conda activate snowflakes".
+
+  To change your environment back to the base, run "conda activate"
